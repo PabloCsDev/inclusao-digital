@@ -31,3 +31,4 @@ Frontend: http://localhost:5173
 4. Registrar evidências (prints, testes e resultados).
 5. Elaborar metodologia, resultados obtidos e considerações finais.
 # inclusao-digital
+# inclusao-digital
